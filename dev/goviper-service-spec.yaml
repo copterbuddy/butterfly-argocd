@@ -20,7 +20,7 @@ spec:
         app: goviper
     spec:
       containers:
-        - image: ghcr.io/copterbuddy/goviper:30ad7c91d9ab9af1a6547fcc2c8b1eebc86c967f
+        - image: ghcr.io/copterbuddy/goviper:82779b742ca8c1b9d4e4076b12c3d9b0203f50a5
           name: goviper
           imagePullPolicy: Always
           ports:
